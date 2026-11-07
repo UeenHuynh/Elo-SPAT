@@ -1,0 +1,15 @@
+# Generated experiment data and machine outputs
+userdata/elospat_time/results/
+userdata/elospat_time/userdata/
+*.mat
+*.csv
+*.out
+*.err
+*.log
+*.png
+*.pdf
+*.zip
+
+# Local tool settings and caches
+.kiro/settings/matlab_config.json
+**/.DS_Store
